@@ -1,5 +1,5 @@
 # Activity Watcher Bot
-Checks the activity of NFTs in an index and sends an alert if the project is detected to be bullish/bearish\
+Checks the activity of NFTs in an index and sends an alert if the project is detected to be bullish/bearish
 
 Discord Bot made for Origins NFT\
 https://discord.com/invite/originsNFT
